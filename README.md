@@ -41,6 +41,12 @@ This project is a simple Node.js web server built using Express.js. It serves a 
 
 Once the server is running, the content of index.html in the public directory is displayed at http://localhost:3000. You can personalize your webpage further by modifying the index.html file.
 
+## Customization
+Modify index.html
+Add CSS
+Add JavaScript:Create JavaScript files in the public directory and link them in index.html to add interactivity.
+
+
 
 ## GitHub Repository
 
